@@ -1,0 +1,20 @@
+body, html{
+margin: 0;
+padding: 0;
+background: url(https://oir.mobi/uploads/posts/2021-02/1612180212_5-p-zadnii-fon-dlya-pk-7.jpg);
+background-size: 1550px;
+}
+#input{
+    border-radius: 45px;
+    color: royalblue;
+    font-size: 25px;
+}
+#btn{
+    border-radius: 90px;
+    font-size: 25px;
+}
+
+h5{
+    font-size: 25px;
+    color: white;
+}
